@@ -133,7 +133,6 @@ fabric.properties
 /var/log/*
 !var/log/.gitkeep
 /.idea
-
 # Parameters
 /app/config/parameters.yml
 /app/config/parameters.ini
